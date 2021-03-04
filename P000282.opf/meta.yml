@@ -1,16 +1,17 @@
-id: opecha:P000282
+id: P000282
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15846
   title: ཀུན་མཁྱེན་པདྨ་དཀར་པོའི་རྣམ་ཐར་སྙན་ངག་ཅན་གྱི་འགྲེལ་བ།
-  volume:
+  author: ''
+  volumes:
     b2581851922748c28b6ccaf1a8f848a4:
       image_group_id: I1KG15848
       title: Volume 1 of kun mkhyen pad+ma dkar po'i rnam thar snyan ngag can gyi
         'grel ba/
       volume_number: 1
       total_pages: 98
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཀུན་མཁྱེན་པདྨ་དཀར་པོའི་རྣམ་ཐར་སྙན་ངག་ཅན་གྱི་འགྲེལ་བ།
   author: ''
